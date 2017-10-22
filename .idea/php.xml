@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/unisharp/laravel-ckeditor" />
+      <path value="$PROJECT_DIR$/vendor/laravel-filemanager/js" />
+      <path value="$PROJECT_DIR$/vendor/sitemap/styles" />
+      <path value="$PROJECT_DIR$/vendor/laravel-filemanager/css" />
+      <path value="$PROJECT_DIR$/vendor/laravel-filemanager/images" />
+      <path value="$PROJECT_DIR$/vendor/laravel-filemanager/img" />
+      <path value="$PROJECT_DIR$/vendor/laravel-filemanager/files" />
+    </include_path>
+  </component>
+</project>

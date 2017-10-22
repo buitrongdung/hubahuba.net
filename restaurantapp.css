@@ -1,0 +1,76 @@
+body {
+    padding-bottom: 30px;
+}
+.container .breadcrumb {
+	color: white;
+}
+.menubar {
+	background-color: transparent;
+background-image: url("img/bg-mainmenu.png");
+background-repeat: repeat-x;
+background-attachment: scroll;
+background-position: center top;
+background-clip: border-box;
+background-origin: padding-box;
+background-size: auto auto;
+}
+.menubar ul li a {
+	color: white;
+	font-family: a;
+	text-transform: uppercase;
+	margin-left: 19px;
+	font-size: 13px;
+}
+footer span {
+	font-size: 14px;
+	color: #06928a;
+	text-transform: uppercase;	
+	font-family: Arial, Helvetica, sans-serif;
+}
+footer a {
+	font-size: 14px;
+	color: white;
+	font-size: 12px;
+}
+
+.hr-header {
+	margin: 0;
+	padding: 0 0 35px;
+	font-family: 'BaskervilleNormal';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 28px;
+	color: #06928a;
+	text-transform: uppercase;
+	background-color: transparent;
+	background-image: url("img/bg-header.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center bottom;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background-size: auto auto;
+}
+.all-web {
+	background-image: url('img/bg-body.jpg');
+	background-color: rgb(35, 37, 33);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center top;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background-size: auto auto;
+
+}
+.container {
+	width: 75%;
+}
+th {
+    vertical-align: top !important;
+    background-color: #f5f5f5;
+}
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover {
+    background-color: #f5f5f5;
+}

@@ -1,0 +1,9 @@
+Booking confirmation
+
+asdsasa, thank you for your booking request 201500002We are happy to send you the latest infomation about guest confirmation:
+
+C1: 04.08.2015, Casual Dining 10:50 - 12:30
+C2: 05.08.2015, Fine Dining 13:00 - 15:15
+C1: 04.08.2015, Banquet Dining 12:45 - 15:00
+
+ Please note that your guests need to arrive at Restaurant Service as least 10 minutes prior to theschedule seating time.

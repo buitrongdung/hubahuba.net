@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-filemanager/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-filemanager/files" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-filemanager/images" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-filemanager/img" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-filemanager/js" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/sitemap/styles" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/unisharp/laravel-ckeditor" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/laravel-filemanager/css" />
+          <root url="file://$MODULE_DIR$/vendor/laravel-filemanager/files" />
+          <root url="file://$MODULE_DIR$/vendor/laravel-filemanager/images" />
+          <root url="file://$MODULE_DIR$/vendor/laravel-filemanager/img" />
+          <root url="file://$MODULE_DIR$/vendor/laravel-filemanager/js" />
+          <root url="file://$MODULE_DIR$/vendor/sitemap/styles" />
+          <root url="file://$MODULE_DIR$/vendor/unisharp/laravel-ckeditor" />
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/phpspec/lib/phpspec.jar!/phpspec_stub" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/laravel-filemanager/css" />
+          <root url="file://$MODULE_DIR$/vendor/laravel-filemanager/files" />
+          <root url="file://$MODULE_DIR$/vendor/laravel-filemanager/images" />
+          <root url="file://$MODULE_DIR$/vendor/laravel-filemanager/img" />
+          <root url="file://$MODULE_DIR$/vendor/laravel-filemanager/js" />
+          <root url="file://$MODULE_DIR$/vendor/sitemap/styles" />
+          <root url="file://$MODULE_DIR$/vendor/unisharp/laravel-ckeditor" />
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/phpspec/lib/phpspec.jar!/phpspec_stub" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/restaurant/composer.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/restaurant/composer.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
